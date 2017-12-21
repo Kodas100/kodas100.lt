@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Remėjai
-permalink: /remejai/
+title: Iniciatyvą palaiko
+permalink: /iniciatyva-palaiko/
 ---
 
 * **[MB “LC paslaugų centras"](http://www.lcpc.lt/ "MB LC paslaugų centras"){:target="_blank"}** tikslas yra teikti kokybišką pagalbą Jums ir Jūsų verslui. Įmonės steigimas yra vienas iš pirmųjų Jūsų verslo pradžios žingsnių, kurį Jums padėsime įveikti kartu!
