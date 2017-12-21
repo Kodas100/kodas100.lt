@@ -24,6 +24,7 @@ Justina Jančiauskienė
 [info@kodas10.lt](mailto:info@kodas10.lt "info@kodas10.lt").
 
 **Viešieji ryšiai**<br />
+Justina Jančiauskienė<br />
  [justina@kodas100.lt](mailto:justina@kodas100.lt "justina@kodas100.lt") <br />
  [+370 633 67550](tel:+37063367550 "+370 633 67550")
 
