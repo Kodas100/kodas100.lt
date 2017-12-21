@@ -2,11 +2,11 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Lato:400,400i&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400&subset=latin-ext');
 @import url('https://fonts.googleapis.com/css?family=Merriweather+Sans&subset=latin-ext');
 
-$base-font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
-$heading-font-family: 'Merriweather Sans', serif;
+$base-font-family: 'Roboto', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$heading-font-family: 'Merriweather Sans', sans-serif;
 $black: #000;
 $white: #fff;
 $background-color: #f0f0f0;
