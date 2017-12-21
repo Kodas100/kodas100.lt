@@ -2,16 +2,23 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700|Merriweather+Sans&subset=latin-ext');
-@import "minima";
-
 $base-font-family: 'Lato', "Helvetica Neue", Helvetica, Arial, sans-serif;
 $heading-font-family: 'Merriweather Sans', serif;
 $black: #000;
+$white: #fff;
 $background-color: #f0f0f0;
 
 $regular: 400;
 $bold: 700;
+
+$content-width: 900px;
+
+$on-laptop: 900px;
+
+$brand-color: #6E7A9F;
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700|Merriweather+Sans&subset=latin-ext');
+@import "minima";
 
 
 h1 {
@@ -34,7 +41,6 @@ h1 {
   font-size: 0.8em;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-weight: $bold;
 
   .page-link {
     color: $grey-color;
@@ -50,9 +56,22 @@ h1 {
 }
 
 .post {
+  background-color: $white;
+  box-shadow:
+    0 2px 2px 0 rgba(0, 0, 0, 0.14),
+    0 1px 5px 0 rgba(0, 0, 0, 0.12),
+    0 3px 1px -2px rgba(0, 0, 0, 0.2);
+  margin-top: 0;
+  margin-bottom: 2em;
+  padding: 1.5em;
+  position: relative;
+
+  &-featured {
+    margin-bottom: 2em;
+  }
 
   &-list > li {
-    background-color: #fff;
+    background-color: $white;
     box-shadow:
       0 2px 2px 0 rgba(0,0,0,0.14),
       0 1px 5px 0 rgba(0,0,0,0.12),

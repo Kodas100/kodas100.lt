@@ -55,4 +55,8 @@ Kas sudaro:
 
 * VISI, norintys sekti bendruomenės veiklą bei prisidėti savanorystės pagrindu. Padėti rengti pranešimus spaudai, gelbstint su renginių organizavimu, užsiimti grafikos darbais, pasiūlyti išorines paslaugas, kaip svetainių talpinimas, patalpos susitikimams ir pan. Į šią grandį įtraukiami rėmėjai ir iniciatyvos partneriai. 
 
-**Įstojimas į asociaciją nėra būtinas.**
+
+Įstojimas į asociaciją nėra būtinas.
+
+
+![Asociacija KODAS LT](/assets/images/asociacijos-struktura.png "Asociacija KODAS LT")

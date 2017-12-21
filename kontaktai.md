@@ -26,3 +26,6 @@ Justina Jančiauskienė
 **Viešieji ryšiai**<br />
  [justina@kodas100.lt](mailto:justina@kodas100.lt "justina@kodas100.lt") <br />
  [+370 633 67550](tel:+37063367550 "+370 633 67550")
+
+
+[Prašymas priimti į Kodas LT Asociaciją](/downloads/Prašymas-priimti-į-KODAS-LT-asociaciją.pdf "Prašymas priimti į Kodas LT Asociaciją"){:target="_blank"}
