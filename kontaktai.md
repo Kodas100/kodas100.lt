@@ -21,7 +21,7 @@ Justina Jančiauskienė
 ### Kontaktai:
 
 **Bendrieji klausimai ir prašymai įstoti į asociaciją** <br />
-[info@kodas10.lt](mailto:info@kodas10.lt "info@kodas10.lt").
+[info@kodas100.lt](mailto:info@kodas100.lt "info@kodas100.lt").
 
 **Viešieji ryšiai**<br />
 Justina Jančiauskienė<br />
